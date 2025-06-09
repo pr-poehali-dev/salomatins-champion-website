@@ -28,7 +28,7 @@ const CelebrationFooter = () => {
             </div>
             <div className="flex items-center gap-2 bg-white/10 rounded-full px-4 py-2">
               <Icon name="Dumbbell" size={20} className="text-yellow-400" />
-              <span className="text-sm">2024</span>
+              <span className="text-sm">2025</span>
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@ const CelebrationFooter = () => {
 
           <div className="flex items-center justify-center gap-4 text-yellow-400">
             <Icon name="Crown" size={20} />
-            <span className="text-lg font-semibold">2024</span>
+            <span className="text-lg font-semibold">2025</span>
             <Icon name="Crown" size={20} />
           </div>
         </div>

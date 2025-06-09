@@ -49,13 +49,13 @@ const HeroSection = () => {
         {/* Дата достижения */}
         <div className="inline-flex items-center gap-3 bg-white/10 backdrop-blur-sm rounded-full px-8 py-4 animate-fade-in">
           <Icon name="Calendar" size={24} className="text-yellow-400" />
-          <span className="text-lg font-semibold text-white">2024 год</span>
+          <span className="text-lg font-semibold text-white">2025 год</span>
         </div>
 
         {/* Большой акцент на годе */}
         <div className="mt-8 text-center animate-fade-in">
           <div className="text-6xl md:text-8xl font-bold text-yellow-400 mb-2 font-montserrat">
-            2024
+            2025
           </div>
           <p className="text-blue-100 text-lg">Год великой победы</p>
         </div>
