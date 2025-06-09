@@ -69,8 +69,10 @@ const AchievementCard = () => {
                     />
                   </div>
                   <div>
-                    <h3 className="font-semibold text-gray-800 mb-1">Год</h3>
-                    <p className="text-gray-600">2024</p>
+                    <h3 className="font-semibold text-gray-800 mb-1">
+                      Год победы
+                    </h3>
+                    <p className="text-2xl font-bold text-blue-600">2024</p>
                   </div>
                 </div>
               </div>
